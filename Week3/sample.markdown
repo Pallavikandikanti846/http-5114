@@ -5,6 +5,8 @@ This is a paragraph.
 
 This is also a paragraph.
 
+To run Markdown press CTRL+Shift+V
+
 ## Bold And Italics
 
 This text is **Bold** and this text is *Italics*.
