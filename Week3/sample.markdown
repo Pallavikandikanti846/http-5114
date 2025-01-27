@@ -37,7 +37,21 @@ Syntax to insert an image in Markdown:
 
 ![Nature Image](nature.png)
 
+<!-- This is a comment -->
 
+
+## Adding Javascript to Markdown
+
+```Javascript
+var string="test";
+```
+
+## Tables
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Row 1 | Row 1 |
+| Row 2 | Row 2 |
 
 
 
